@@ -19,7 +19,7 @@ source .venv/bin/activate
 ```
 
 ```bash
-pip install requests polars pandas pyarrow
+pip install -r requirements.txt
 ```
 
 ## Usage
